@@ -1,5 +1,4 @@
-[
-  {
+
     "name": "🇦🇺 IEPL|澳大利亚01 |x3",
     "type": "ss",
     "server": "iepl.189909.xyz",
@@ -408,5 +407,3 @@
     "sni": "vn.hongqiao.asia",
     "tfo": true,
     "skip-cert-verify": false
-  }
-]
