@@ -1,0 +1,412 @@
+[
+  {
+    "name": "🇦🇺 IEPL|澳大利亚01 |x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25005",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇨🇦 IEPL|加拿大01 |x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25012",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇨🇳 CN2|台湾1|家庭宽带|x1",
+    "type": "trojan",
+    "server": "cm2.189909.xyz",
+    "port": "45001",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "v3tw1.hongqiao.asia",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇨🇳 IEPL|台湾01|家庭宽带|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25020",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇨🇳 IEPL|台湾02|家庭宽带|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25021",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇩🇪 CN2|德国1 |x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45009",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇩🇪 IEPL|德国01|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25010",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇬🇧 IEPL|英国01|原生IP|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25011",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 CN2|香港3|家庭宽带|x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45015",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇭🇰 IEPL|香港01|原生IP|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25099",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 IEPL|香港02|家庭宽带|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25027",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 IEPL|香港03|家庭宽带|Netflix|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25028",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇮🇳 CN2|印度1 |x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45017",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇮🇳 IEPL|印度01 |x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25003",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 CN2|日本1 |x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45006",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇯🇵 CN2|日本3|家庭宽带|x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45018",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇯🇵 IEPL|日本01|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25001",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 IEPL|日本02 |x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25023",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 IEPL|日本03|家庭宽带|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25024",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇰🇷 CN2|韩国1 x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45007",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇰🇷 IEPL|韩国01|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25025",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇲🇴 IEPL|澳门01|家庭宽带|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25022",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇲🇾 IEPL|马来西亚01|原生IP|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25004",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇵🇭 IEPL|菲律宾01|原生IP|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25002",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇵🇰 IEPL|巴基斯坦01|原生IP|x10",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25006",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇷🇺 IEPL|俄罗斯01|原生ip|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25009",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇸🇬 CN2|新加坡1 |x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45004",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇸🇬 CU|新加坡2|Netflix|x1",
+    "type": "trojan",
+    "server": "cu1.189909.xyz",
+    "port": "45005",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇸🇬 IEPL|新加坡01 |x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25018",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇸🇬 IEPL|新加坡02|Netflix|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25019",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇹🇭 CN2|泰国1|原生ip|x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45014",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇹🇭 IEPL|泰国01|原生IP|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25008",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇹🇷 IEPL|土耳其01|原生IP|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25007",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇺🇸 CN2|美国1 |x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45008",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇺🇸 CN2|美国2 |x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45011",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇺🇸 CN2|美国3|Netflix|x1",
+    "type": "trojan",
+    "server": "cu1.189909.xyz",
+    "port": "45020",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "ssl.paoche.work",
+    "tfo": true,
+    "skip-cert-verify": false
+  },
+  {
+    "name": "🇺🇸 IEPL|美国01 |x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25014",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇺🇸 IEPL|美国02 |x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25015",
+    "cipher": "aes-256-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇺🇸 IEPL|美国03|Netflix|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25016",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇺🇸 IEPL|美国04|原生IP|x3",
+    "type": "ss",
+    "server": "iepl.189909.xyz",
+    "port": "25017",
+    "cipher": "aes-128-gcm",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "tfo": true,
+    "udp": true
+  },
+  {
+    "name": "🇻🇳 CN2|越南1|原生ip|x1",
+    "type": "trojan",
+    "server": "cm1.189909.xyz",
+    "port": "45003",
+    "password": "3de07d50-9fc4-11ea-bebb-0fa86be3669d",
+    "sni": "vn.hongqiao.asia",
+    "tfo": true,
+    "skip-cert-verify": false
+  }
+]
