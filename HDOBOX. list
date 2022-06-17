@@ -1,0 +1,16 @@
+#HDOBOX分流规则
+DOMAIN-SUFFIX,meomeo.pw,PROXY
+DOMAIN-SUFFIX,vizcloud.cloud,PROXY
+DOMAIN-SUFFIX,mixdrop.co,PROXY
+DOMAIN-SUFFIX,jwpcdn.com,PROXY
+DOMAIN-SUFFIX,feetcdn.com,PROXY
+DOMAIN-SUFFIX,subscene.com,PROXY
+DOMAIN-SUFFIX,megaxfer.ru,PROXY
+DOMAIN-SUFFIX,lencr.org,PROXY
+DOMAIN-SUFFIX,ssacdn.com,PROXY
+DOMAIN-SUFFIX,upgulpinon.com,PROXY
+DOMAIN-SUFFIX,goodcache.ml,PROXY
+DOMAIN-SUFFIX,cloudcdn.monster,PROXY
+DOMAIN-SUFFIX,rtmark.net,PROXY
+DOMAIN-SUFFIX,upgulpinon.com,PROXY
+DOMAIN-SUFFIX,trackjs.com,PROXY
